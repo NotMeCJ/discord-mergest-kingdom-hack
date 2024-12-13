@@ -16,10 +16,11 @@ discord hack mergest kingdom merge kingdom 2024
  
 | Parameter |   Is reward   | Description                |
 | :-------- | :------- | :------------------------- |
-| `coins` | True | Yellow coins |
+| `soft` | True | Yellow coins |
 | `rubies` | True | Purple gems |
 | `wands` | True | Keys to discover new worlds |
 | `energy` | True | Energy for activities |
+| `exp` | True | Experience to level up |
 </details>
  
 ## Game functions for issuing rewards
