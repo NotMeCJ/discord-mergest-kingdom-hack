@@ -26,7 +26,7 @@ discord hack mergest kingdom merge kingdom 2024
  
 | Function |    | Description                               |
 | :-------- | :----- |:------------------------------------------|
-| `Reward.prototype.collectRewardsAction = function(a, b)`      | | Function to give away any value item       |
+| `Reward.prototype.getAmount`      | | Function to give away any value item       |
 
 ## Process for obtaining game privileges
 ```
@@ -50,6 +50,16 @@ This post is made for educational purposes to understand how to bypass the game.
 1) Find the file `game-vX.X.X.js` and open it
 ![{DA292A78-1B77-4188-931E-B0B61ABA0491}](https://github.com/user-attachments/assets/51db9c34-0d74-460f-bb0c-89f9160d34e0)
 
+ 2) Press `Ctrl+F` and search the function `Reward.prototype.getAmount`
+Now the function has been obfuscated so you need to find like `Reward.prototype.getAmount`
+Notice the + 'd' function that remains here.
+
+3) Click to the left on the gray line to place a breakpoint
+ 
+   ![{F35CF60C-3AA9-42FF-8FF2-84864B2A9A98}](https://github.com/user-attachments/assets/41faa0a8-d623-4936-9c9c-5540398e0ce7)
+
+ 
+</details>
  
 ### Step 3 - Bypassing the game
 <details>
