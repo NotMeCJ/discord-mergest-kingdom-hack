@@ -3,7 +3,7 @@ discord hack mergest kingdom merge kingdom 2024
 
 [![Hits](https://hits.sh/github.com/NotMeCJ/discord-mergest-kingdom-hack.svg?color=cc1111)](https://hits.sh/github.com/NotMeCJ/discord-mergest-kingdom-hack/)
 
-## Learning how to hack the game in 5 minutes! (Farm Merge Valley in Discord)
+## Learning how to hack the game in 5 minutes! (Mergest Kingdom in Discord)
 
 ### What you need?
 - browser (preferably Google Chrome or discord Canary)
