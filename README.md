@@ -18,7 +18,7 @@ discord hack mergest kingdom merge kingdom 2024
 | :-------- | :------- | :------------------------- |
 | `coins` | True | Yellow coins |
 | `rubies` | True | Purple gems |
-| `wands` | True | Crates with items |
+| `wands` | True | Keys to discover new worlds |
 | `energy` | True | Energy for activities |
 </details>
  
@@ -56,14 +56,14 @@ This post is made for educational purposes to understand how to bypass the game.
  
 1) Find any resource on the map
  
-   ![find](images/3_1.png)
+   ![find](images_3_1.png)
 2) Click on it and you will see information in the `Scope` window
-   ![find](images/3_2.jpg)
+   ![find](images_3_2.png)
 4) Click on the triangles where it says `this` and go to `values`
-   ![find](images/3_3.jpg)
+   ![find](images_3_3.png)
 5) ^ In the `value` field, enter the value you want to issue
 6) Press 1 and then 2 in sequence
-   ![find](images/3_4.jpg)
+   ![find](image_3_4.png)
 7) Watch as the items start being issued
  
 </details>
